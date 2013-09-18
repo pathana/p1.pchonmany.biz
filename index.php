@@ -2,6 +2,7 @@
 <head>
 <title>Welcome to P1</title>
 
+
 <style>
 body {
 	color: #000;
@@ -11,17 +12,29 @@ body {
 	background: #FFF;
 	background-image: url('images/ticks.png');
 	background-attachment: fixed;
+	margin: 30px;
+	text-align: justify;
 }
 
 h1 {
 	font-family: Georgia, sans-serif;
-	font-size: 4em;
-	text-align: right;
-	color: #000;
+	font-size: 3em;
+	color: #0B0E5E;
 	letter-spacing: 0.07em;
-	line-height: 1em;
+	line-height: 2em;
 }
+
+b {
+	color: #666;
+	font-weight: bold;
+}
+
+i {
+	color: #999;
+}
+
 </style>
+
 
 </head>
 <body>

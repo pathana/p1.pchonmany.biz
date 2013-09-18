@@ -65,4 +65,15 @@ body {
 	background-attachment: fixed;
 }
 
-h1
+h1 {
+	font-family: Georgia, sans-serif;
+	font-size: 3em;
+	color: #000;
+	letter-spacing: 0.07em;
+	line-height: 1em;
+}
+
+b {
+	color: #ccc;
+	font-weight: bold;
+}
