@@ -1,7 +1,28 @@
 <html>
 <head>
 <title>Welcome to P1</title>
-<link href="main.css" rel="stylesheet" type="text/css">
+
+<style>
+body {
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.95em;
+	line-height: 2em;
+	background: #FFF;
+	background-image: url('images/ticks.png');
+	background-attachment: fixed;
+}
+
+h1 {
+	font-family: Georgia, sans-serif;
+	font-size: 4em;
+	text-align: right;
+	color: #000;
+	letter-spacing: 0.07em;
+	line-height: 1em;
+}
+</style>
+
 </head>
 <body>
 
@@ -17,3 +38,4 @@ I am a web designer and developer, but I can also do more than just web things. 
 <b>Code Editors:</b> Sublime Text + Notepad<br>
 
 </body>
+</html>
